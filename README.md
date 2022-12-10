@@ -5,15 +5,7 @@ React boilerplate template with typescript, vite and tailwindcss
 ![Typescript](https://img.shields.io/badge/lang-typescript-blue) ![Vite](https://img.shields.io/badge/build-vite-blueviolet) ![Vitest](https://img.shields.io/badge/test-vitest-brightgreen)
 ![Linter](https://img.shields.io/badge/lint-typescript--eslint%20%7C%20eslint-informational) ![prettier](https://img.shields.io/badge/formatter-prettier-blueviolet) ![pnpm](https://img.shields.io/badge/pnpm-%3E=7.17.1-yellow)
 
-<div style="display: flex; align-items: center; gap: 32px;">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1024px-React.svg.png" alt="React" width="80" height="auto">
- <p style="margin: 0; font-size: 40px; font-weight: 600;">+</p>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" alt="Vite" width="80"> 
- <p style="margin: 0; font-size: 40px; font-weight: 600;">+</p>
- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" alt="Typescript" width="80" height="auto">
- <p style="margin: 0; font-size: 40px; font-weight: 600;">+</p>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/768px-Tailwind_CSS_logo.svg.png" alt="Tailwindcss" width="320" height="auto">
-</div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1024px-React.svg.png" alt="React" width="64" height="auto"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" alt="Vite" width="64"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" alt="Typescript" width="64" height="auto"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/768px-Tailwind_CSS_logo.svg.png" alt="Tailwindcss" width="280" height="auto">
 
 # Features
 
