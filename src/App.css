@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+
+@layer base {
+  #root {
+    @apply max-w-7xl my-0 mx-auto p-8 text-center;
+  }
+}
+
+@layer components {
+  .logo {
+    @apply p-6 w-36 h-36;
+    will-change: filter;
+  }
+  .logo.react {
+    @apply w-39 h-39;
+  }
+  .logo:hover {
+    filter: drop-shadow(0 0 2em #646cffaa);
+  }
+  .logo.react:hover {
+    filter: drop-shadow(0 0 2em #61dafbaa);
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    a:nth-of-type(2) .logo {
+      @apply animate-logo-spin;
+    }
+  }
+
+  .card {
+    @apply p-8;
+  }
+
+  .read-the-docs {
+    @apply my-4;
+    color: #888;
+  }
+}
